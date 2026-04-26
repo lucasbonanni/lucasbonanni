@@ -88,7 +88,7 @@ Building better software faster with AI assistance:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasbonanni&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasbonanni&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&hide=contribs&show=reviews,prs_merged,prs_merged_percentage)
 
 </div>
 
